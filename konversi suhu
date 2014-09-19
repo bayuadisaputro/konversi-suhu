@@ -1,0 +1,10 @@
+#include <stdio.h> //file header
+main(){
+printf("Konverensi Derajat");
+printf("Celcius");
+printf("Suhu 35 Celcius");
+printf("R=4/5*C");
+printf("F=9/5*C+32");
+printf("35 Celcius=28 Reamur");
+printf("35 Celcius=95 Fahrenheit");
+}
